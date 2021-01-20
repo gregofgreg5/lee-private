@@ -9,6 +9,7 @@ The wearer gains **Enhanced vision**.
     * +2 to all **initiative rolls**. 
     * +2 to **active/passive perception** rolls 
     * +2 to **AC** **
+    * -2 to wearer's saves **vs Charisma**
 
 ---
 
