@@ -28,7 +28,7 @@ However, the wearer must drink a pint of alcohol to change and activate a new po
 | Ninth     | 12   | 
 | Eleventh     | 15   | 
 
-| Level | Charges (Cost) | Ability (cost) | Duration |
+| Level | Charges: cost | Ability (cost) | Duration |
 | -------- | -------- | -------- | -------- |
 |      | 1     | *[Darkvision](https://www.dndbeyond.com/spells/darkvision)*     | 10 min
 |      | 1     | **Read languages** (similar to [*comprehend languages*](https://www.dndbeyond.com/spells/comprehend-languages) except only applies to to written script     | 30 min
