@@ -1,4 +1,4 @@
-# Manny
+# Tyr's Burden (*circa -750 DR*)
 ## The Constable's Gift
 
 Both Manny and Grosh found themselves frequently in the company of Tyr's Burden's Constable Horace Harper. Both understood that that was where they could be the most use and that the good Constable probably wanted to keep an eye on them and maybe get to know them a little. After all, unless someone came up with a plan to go find the orcs, it was likely that Force Grey would be around until they orcs returned.
